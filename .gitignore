@@ -1,0 +1,8 @@
+# 本仓库只是公开的 workflow 外壳，不含任何二进制或游戏数据。
+
+# 运行时由 workflow 下载/生成，不需要提交
+/server/
+/web/
+/state/
+/logs/
+/tmp/
